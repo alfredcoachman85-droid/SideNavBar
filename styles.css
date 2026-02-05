@@ -57,7 +57,7 @@
     text-decoration: none;
     display: block;
 }
-.na-links a:hover {
+.nav-links a:hover {
     background-color: #34344e;
     border-radius: 4px;
 }
