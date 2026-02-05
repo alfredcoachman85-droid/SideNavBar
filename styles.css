@@ -67,6 +67,6 @@
     padding: 20px;
     transition: margin-left 0.3s ease;
 }
-sidebar.active ~ .main-content {
+.sidebar.active ~ .main-content {
     margin-left: 220px;
 }
