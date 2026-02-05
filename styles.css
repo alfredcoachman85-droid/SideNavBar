@@ -43,7 +43,7 @@
 }
 
 /* show nav links only when expanded */
-.sidebar.active .nav-link {
+.sidebar.active .nav-links {
     opacity: 1;
     visibility: visible;
     transform: translateX(0);
