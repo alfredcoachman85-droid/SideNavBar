@@ -70,3 +70,6 @@
 .sidebar.active ~ .main-content {
     margin-left: 220px;
 }
+.container {
+    text-align: center;
+}
