@@ -13,8 +13,8 @@
     top: 0;
     width: 60px;
     height: 100vh;
-    background-color: #1e1e2f;
-    color: white;
+    background-color: #8f1a58;
+    color: rgba(80, 24, 171, 0.504);
     transition: width 0.3s ease;
     overflow: hidden;
 }
