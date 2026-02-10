@@ -53,12 +53,12 @@
     padding: 15px;
 }
 .nav-links a {
-    color: white;
+    color:  blue;
     text-decoration: none;
     display: block;
 }
 .nav-links a:hover {
-    background-color: #34344e;
+    background-color: #176841;
     border-radius: 4px;
 }
 /* Main contenet */
